@@ -14,5 +14,5 @@ exclude-all-by-default: true
 objc-interfaces:
   include:
     - AudioPlayer
-  #module:
-  #  'AudioPlayer': 'audioplayer'
+  module:
+    'AudioPlayer': 'audioplayer'
